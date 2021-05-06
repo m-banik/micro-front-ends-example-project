@@ -2,7 +2,7 @@
 
 ## Description
 
-An example project built in the micro frontends architecture provided by the Webpack in version 5. The author wrote the code while working with the [course](https://www.udemy.com/course/microfrontend-course/){:target="_blank"} on Udemy.
+An example project built in the micro frontends architecture provided by the Webpack in version 5. The author wrote the code while working with the [course](https://www.udemy.com/course/microfrontend-course/) on Udemy.
 
 ## Instruction
 
